@@ -1,0 +1,13 @@
+--EMPLEADO
+
+insert into empleado values ('Juan','Gomes','Perez','Av. San benito','78596549')
+insert into empleado values ('Rosario','Mollinedo','Vaca','Av. Paragua','79952146')
+insert into empleado values ('Cecilia','Aguayo','Holguin','4to anillo','65014578')
+insert into empleado values ('Luis','Meneses','Jauregui','Av. Uruguay','72658947')
+
+--CLIENTE
+
+insert into cliente values ('Andrea','Rojas','Moron','AV 2 de Agosto','65214785','andrea@hotmail.com')
+insert into cliente values ('Marco Antonio','Solis','Quispe','Av. Miami beach','75485271','elbuqi@gmail.com')
+insert into cliente values ('Evo','Morales','Ayma','Av. La Paz','7859654','evo@gmail.com')
+insert into cliente values ('Papanoel','Nieves','Frias','c/Polo Norte','79856321','amigodesanta@hotmail.com')

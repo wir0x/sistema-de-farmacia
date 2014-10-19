@@ -1,0 +1,28 @@
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\bin\Debug\BRL.dll
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\bin\Debug\BRL.pdb
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\bin\Debug\DAL.dll
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\bin\Debug\DAL.pdb
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\obj\Debug\ResolveAssemblyReference.cache
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\obj\Debug\BRL.dll
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\BRL\obj\Debug\BRL.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.dll
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.dll
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.dll
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.dll
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.dll
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.dll
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.dll
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\bin\Debug\BRL.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.dll
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\bin\Debug\DAL.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.csprojResolveAssemblyReference.cache
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.dll
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\BRL\obj\Debug\BRL.pdb

@@ -1,0 +1,81 @@
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\Menu.exe
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\Menu.pdb
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\BRL.dll
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\DAL.dll
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\BRL.pdb
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\bin\Debug\DAL.pdb
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmBuscarCliente.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmCategoria.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmCliente.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmEmpleado.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmLaboratorio.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmMedicamento.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmProveedor.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.frmVenta.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.Presentacion.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.exe
+f:\Mis Documentos\.01 Gonzalo\.Universidad\IV Semestre\Base de datos\Proyectos\Visual Studio\Farmacia\Menu\obj\x86\Debug\Menu.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.exe
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.exe
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.dll
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.dll
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.pdb
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmBuscarCliente.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCategoria.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCliente.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmEmpleado.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmLaboratorio.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmMedicamento.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmProveedor.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmVenta.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Presentacion.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+d:\Gonzalo\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.exe
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.exe
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.dll
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.dll
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.pdb
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmBuscarCliente.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCategoria.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCliente.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmEmpleado.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmLaboratorio.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmMedicamento.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmProveedor.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmVenta.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Presentacion.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+D:\wir0x\01 Universidad\04 Cuarto Semestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.exe
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.exe
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\Menu.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.dll
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.dll
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\BRL.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\bin\Debug\DAL.pdb
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmBuscarCliente.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCategoria.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmCliente.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmEmpleado.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmLaboratorio.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmMedicamento.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmProveedor.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.frmVenta.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Presentacion.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+d:\gsv\01 University\04 CuaSemestre\Base de Datos\Farmacia\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
